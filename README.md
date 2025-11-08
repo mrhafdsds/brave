@@ -22,7 +22,7 @@ Download and run the script:
 bash
 
 Copy code
-bash <(curl -sL https://raw.githubusercontent.com/mrhafdsds/brave/main/setup_brave.sh)
+bash <(curl -sL https://raw.githubusercontent.com/mrhafdsds/brave/main/brave_setup.sh)
 🚀 Quick Start for multiple brave multiple proxy
 SSH into your VPS
 
